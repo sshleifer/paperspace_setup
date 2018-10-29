@@ -67,3 +67,8 @@ How do I copy files from my local machine?
 ```
 scp  [localpath] paperspace@184.105.174.55:./
 ```
+
+
+Which paperspace instance type am I using?
+
+P5000 ML-in-a-box
