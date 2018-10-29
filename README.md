@@ -33,7 +33,7 @@ sudo ufw allow 8888
 jupyter notebook --generate-config
 ```
 [Based off this](https://by-the-water.github.io/posts/2017/05/16/setting-up-a-jupyter-notebook-server-on-paperspace.html)
-After this, ipython should work on the server and you should see `mykey.key` and `mycert.pem` if you type ls.
+After this, ipython should work on the server and you should see `mykey.key` and `mycert.pem` if you type `ls`.
 
 
 
