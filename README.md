@@ -1,10 +1,6 @@
 # Getting Setup on Paperspace
 
-#### Get a public IP from sam
-email sshleifer@gmail.com "can I have a public IP please".
-I will give you a public IP and password over some secure means of communication.
-save it somewhere easily accessible!
-
+Get public ip for ml-in-a box
 
 ### Setup jupyter and common packages
 
